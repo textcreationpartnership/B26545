@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the Blew-Ball in Grays-Inn Lane near Holborn Barrs, next door to a tallow-chandler; where you may see my name upon a board over the door. Liveth Elizabeth Maris, the true German Gentlewoman. Lately arrived.</title>
+            <author>Maris, Elizabeth.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26545</idno><idno type="EEBO-CITATION">99888911</idno>
+  <idno type="VID">196041</idno>
+  <idno type="EEBO-PROQUEST">2248544158</idno>
+  
+            <idno type="STC">Wing M602A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[49]</idno>
+            <idno type="STC">ESTC R232501</idno>
+            <idno type="PROQUEST">ocm99888911</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888911e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26545)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196041)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[49])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the Blew-Ball in Grays-Inn Lane near Holborn Barrs, next door to a tallow-chandler; where you may see my name upon a board over the door. Liveth Elizabeth Maris, the true German Gentlewoman. Lately arrived.</title>
+                  <author>Maris, Elizabeth.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Within ornamental border.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_a_gynecologist">
+            <pb facs="tcp:196041:1"/>
+            <head>At the <hi>Blew-Ball</hi> in <hi>Grays-Inn-Lane</hi> near <hi>Holborn Barrs,</hi> next Door to a <hi>Tallow-Chandler;</hi> where you may see my Name upon a Board over the Door.</head>
+            <head type="sub">Liveth <hi>Elizabeth Maris,</hi> the True German Gentlewoman. <hi>Lately Arrived.</hi>
+            </head>
+            <p>WHo has often with good Success remov'd all Distem<g ref="char:EOLhyphen"/>pers Incident to Women kind, I could not propose a better Method to make my self known, than by this Printed Paper, without which I might for some Years have re<g ref="char:EOLhyphen"/>mained unknown to you, and so consequently incapable of of imploying that Talent which Heaven hath bestow'd on me, for all your benefits and good. My Parents &amp; Husband were so far Skill'd in the Artand knowledge of Physick, they have remov'd the most dangerous Distempers, and have seldom or never fail'd wholsomely to assist Nature in the discharge of her duty. From them I received the great Knowledge and Experience I profess and question not, but (by the Blessing of God) I shall be able to cure any Distemper incident to Woman-kind: A few of which I shall here give you an Account.</p>
+            <p>
+               <hi>First,</hi> I cure all Women or Maids of the Suffocation or rising of the Mother, which may be occasioned through a<g ref="char:EOLhyphen"/>ny rotten Substance, or through a corruption in Nature, or by an Imposthumation in the Womb, which may easily be discern'd, for there oftentimes proceeds a great dizzi<g ref="char:EOLhyphen"/>ness in the Head, anguish of Heart, an inclination to Vo<g ref="char:EOLhyphen"/>mit, much rising and tumbling in the Belly, from whence oftentimes proceeds very fatal Accidents, as Barrenness, Imposthumes, Inflammations of the Lungs, an unusual Paleness, and shivering in the Limbs, Cholick, Strangu<g ref="char:EOLhyphen"/>ry Obstructions, Wringings, and Tertians of the Guts, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> I cure out-sinking, of the Mother, that is, when the Ligaments or Strings that bind the Mother fast to the Body, removes from its place, occsiaoned either by bearing of Children, violent Coughing, heavy work artificially return to its proper place before they go out of my Room, and Cure in 14 or 20 days, which I challenge any person to do but my self.</p>
+            <pb facs="tcp:196041:2"/>
+            <p>I also cure Women or Maids that are subject to Vomiting, and take from them the quivering and shaking occasion'd by the same Infirmity. I also cure hard Bellies swell'd as with Child, or as if troubl'd with the Dropsie. There is yet another sort of Sickness, when the Melancholly is not cleans'd and taken away, which occasions grief and heavy thoughts,</p>
+            <p>I also cure all Ruptures or Bursten-Bellies either in Women or Children; nay, though they have had it many years. I take the Stone from Women and Maids, without cutting, which no Woman (except my Mother) did before me. I have also an ap<g ref="char:EOLhyphen"/>prov'd Remedy for a pain in the Loyns or small of the Back, whe<g ref="char:EOLhyphen"/>ther proceeding from Gravel or Child-bearing. As also a pain in making water, or those that cannot hold their water, but are troubled with a constant leaking or dropping as they go, let it proceed from what cause it will. I drive away all Gouty pains in the Joynts, nay, though your Arms and Legs were grown crooked through a contraction or sinking of the Sinews, and though you have kept your Bed for many years, (by the bles<g ref="char:EOLhyphen"/>sing of God) I dont doubt but to relieve you. I cure many sad Accidents in the Eyes; as Spots, Specks, Pearls, Water-sinkings, hot and violent Rheums, and many more too tedious here to relate. I also cure the <hi>Morbus Gallicus</hi> or <hi>French-Pox,</hi> with all its Symptoms and dangerous Effects, with ease, speed, and se<g ref="char:EOLhyphen"/>cresie; nay, though tamper'd with and almost ruin'd by others. I dare presume few have arriv'd to the perfection in this Cure as my self. There are many other Cures incident to Women, but I shall conclude with this, That I correct all Vices of the <hi>Matrix,</hi> and refresh all the weak Faculties of the Body, by this means rendring a Woman capable of Conception that before was Barren.</p>
+            <p>Those that are not able to come to me, let them but send their Urine, and on sight thereof, I will resolve them what their Di<g ref="char:EOLhyphen"/>stemper is, and if curable, will perform it at a reasonable rate, but if not curable, will plainly and honestly tell them, that they may not be defrauded by others. If there be occasion for a private confinement, they may be accommodated, at my House.</p>
+            <p>☞ If any Gentleman has any Distemper not fit to be dis<g ref="char:EOLhyphen"/>courst of to a Woman, he may speak to my Son, who hath practis'd Physick above Twenty Years with good success. He hath great Experience in curing any Venerial and all other Distempers, and can accommodate with Diet and Lodging all the time of their cure. I desire you to keep this Bill by you, by reason of my removal.</p>
+            <p>My Hours are from Eight in the Morning till Twelve at Noon, and from Two till Seven at Night.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
